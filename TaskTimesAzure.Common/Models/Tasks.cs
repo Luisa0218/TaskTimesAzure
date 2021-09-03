@@ -2,7 +2,7 @@
 
 namespace TaskTimesAzure.Common.Models
 {
-    public class Task
+    public class Tasks
     {
         public int IdEmployee { get; set; }
 
